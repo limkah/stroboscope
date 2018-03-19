@@ -6,3 +6,4 @@ Prototype implementation is with P-channel power MOSFET driving a 12V high power
 Status:
 
 - Basic board layout added for planning purposes.
+- Added Rev 0 of firmware (functioning prototype).
